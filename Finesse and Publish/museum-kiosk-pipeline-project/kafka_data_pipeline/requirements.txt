@@ -1,0 +1,6 @@
+boto3
+pytest
+pylint
+python-dotenv
+ipykernel
+confluent_kafka
